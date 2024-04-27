@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Birthday</title>
+</head>
+<body>
+    <div id="tablero-de-juego">
+        <div id="question">
+           <span id="questions">questions</span> 
+            <img id="img" class="img" alt="foto">
+           
+          
+        </div>
+        <div class="options">
+        <div class="option" id="op1" onclick="selectAnswer(0)">
+           option1
+        </div>
+        <div class="option" id="op2" onclick="selectAnswer(1)">
+            option2
+        </div>
+        <div class="option " id="op3" onclick="selectAnswer(2)">
+            option3     
+        </div>
+        <div class="option " id="op4" onclick="selectAnswer(3)">
+            option4
+        </div>
+    </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./base-question.js"></script>
+    <script  src="./index.js"></script>
+  
+</body>
+</html>
