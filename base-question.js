@@ -2101,5 +2101,1067 @@ let questions = [
             "Bigoli in salsa",
             "Polenta e schie"
         ],
-    }
+    },
+    {
+        pregunta: "Qual è il giocatore di tennis svizzero che ha vinto 20 titoli del Grande Slam?",
+        response: "Roger Federer",
+        wrongs: [
+            "Rafael Nadal",
+            "Novak Djokovic",
+            "Andy Murray"
+        ],
+    },
+    {
+        pregunta: "Quale squadra di calcio ha vinto più Coppe del Mondo FIFA?",
+        response: "Brasile",
+        wrongs: [
+            "Germania",
+            "Italia",
+            "Argentina"
+        ],
+    },
+    {
+        pregunta: "Qual è l'evento sportivo più seguito al mondo?",
+        response: "Campionati del Mondo di Calcio",
+        wrongs: [
+            "Olimpiadi estive",
+            "Super Bowl",
+            "Campionati del Mondo di Rugby"
+        ],
+    },
+    {
+        pregunta: "Chi è l'attuale campione NBA (National Basketball Association)?",
+        response: "Milwaukee Bucks",
+        wrongs: [
+            "Los Angeles Lakers",
+            "Golden State Warriors",
+            "Brooklyn Nets"
+        ],
+    },
+    {
+        pregunta: "Qual è la più antica competizione automobilistica ancora in corso?",
+        response: "24 Ore di Le Mans",
+        wrongs: [
+            "Gran Premio di Monaco",
+            "Indianapolis 500",
+            "Rally di Montecarlo"
+        ],
+    },
+    {
+        pregunta: "In quale città si svolgono i Giochi Olimpici Invernali del 2022?",
+        response: "Pechino",
+        wrongs: [
+            "Pyongyang",
+            "Sapporo",
+            "Vancouver"
+        ],
+    },
+    {
+        pregunta: "Chi ha vinto più medaglie d'oro olimpiche?",
+        response: "Michael Phelps",
+        wrongs: [
+            "Usain Bolt",
+            "Larisa Latynina",
+            "Carl Lewis"
+        ],
+    },
+    {
+        pregunta: "Qual è la squadra di calcio con il maggior numero di Champions League vinte?",
+        response: "Real Madrid",
+        wrongs: [
+            "Barcellona",
+            "Bayern Monaco",
+            "Liverpool"
+        ],
+    },
+    {
+        pregunta: "Chi è considerato il più grande pilota di Formula 1 di tutti i tempi?",
+        response: "Ayrton Senna",
+        wrongs: [
+            "Lewis Hamilton",
+            "Michael Schumacher",
+            "Juan Manuel Fangio"
+        ],
+    },
+    {
+        pregunta: "Qual è la squadra di rugby con il maggior numero di vittorie nei Sei Nazioni?",
+        response: "Inghilterra",
+        wrongs: [
+            "Nuova Zelanda",
+            "Francia",
+            "Galles"
+        ],
+    },
+    {
+        pregunta: "Qual è la lunghezza standard di una pista di maratona?",
+        response: "42,195 chilometri",
+        wrongs: [
+            "21 chilometri",
+            "50 chilometri",
+            "100 chilometri"
+        ],
+    },
+    {
+        pregunta: "Quale tennista ha vinto il maggior numero di titoli di Wimbledon (singoli maschili)?",
+        response: "Roger Federer",
+        wrongs: [
+            "Pete Sampras",
+            "Rafael Nadal",
+            "Novak Djokovic"
+        ],
+    },
+    {
+        pregunta: "In quale città si svolgono i Giochi Olimpici estivi del 2028?",
+        response: "Los Angeles",
+        wrongs: [
+            "Tokyo",
+            "Parigi",
+            "Roma"
+        ],
+    },
+    {
+        pregunta: "Qual è il club di calcio con il maggior numero di titoli di Premier League?",
+        response: "Manchester United",
+        wrongs: [
+            "Chelsea",
+            "Arsenal",
+            "Manchester City"
+        ],
+    },
+    {
+        pregunta: "Qual è il tennista con il maggior numero di settimane al numero 1 del mondo?",
+        response: "Novak Djokovic",
+        wrongs: [
+            "Roger Federer",
+            "Rafael Nadal",
+            "Pete Sampras"
+        ],
+    },
+    {
+        pregunta: "Quale squadra ha vinto il maggior numero di Coppe del Mondo di Rugby?",
+        response: "Nuova Zelanda",
+        wrongs: [
+            "Sudafrica",
+            "Inghilterra",
+            "Australia"
+        ],
+    },
+    {
+        pregunta: "Chi è considerato il più grande giocatore di pallacanestro NBA di tutti i tempi?",
+        response: "Michael Jordan",
+        wrongs: [
+            "LeBron James",
+            "Kobe Bryant",
+            "Magic Johnson"
+        ],
+    },
+    {
+        pregunta: "Qual è il record mondiale del lancio del martello maschile?",
+        response: "86,74 metri",
+        wrongs: [
+            "80,90 metri",
+            "92,72 metri",
+            "78,99 metri"
+        ],
+    },
+    {
+        pregunta: "Quale giocatore di cricket ha segnato il maggior numero di corse in carriera?",
+        response: "Sachin Tendulkar",
+        wrongs: [
+            "Ricky Ponting",
+            "Jacques Kallis",
+            "Brian Lara"
+        ],
+    },
+    {
+        pregunta: "Qual è il record mondiale dei 100 metri piani maschili?",
+        response: "9,58 secondi",
+        wrongs: [
+            "9,63 secondi",
+            "9,69 secondi",
+            "9,74 secondi"
+        ],
+    },
+    {
+        pregunta: "Quale squadra di calcio ha vinto più Coppe Libertadores?",
+        response: "Club Atletico Independiente",
+        wrongs: [
+            "Boca Juniors",
+            "River Plate",
+            "Sao Paulo"
+        ],
+    },
+    {
+        pregunta: "Chi è l'unico calciatore ad aver vinto tre Coppe del Mondo FIFA?",
+        response: "Pelé",
+        wrongs: [
+            "Diego Maradona",
+            "Lionel Messi",
+            "Cristiano Ronaldo"
+        ],
+    },
+    {
+        pregunta: "Qual è il record mondiale del salto in alto maschile?",
+        response: "2,45 metri",
+        wrongs: [
+            "2,39 metri",
+            "2,42 metri",
+            "2,48 metri"
+        ],
+    },
+    {
+        pregunta: "Chi è il giocatore di golf con il maggior numero di vittorie nei tornei Major?",
+        response: "Jack Nicklaus",
+        wrongs: [
+            "Tiger Woods",
+            "Arnold Palmer",
+            "Gary Player"
+        ],
+    },
+    {
+        pregunta: "Quale è stato il primo sport a essere stato disputato nelle Olimpiadi moderne?",
+        response: "Atletica leggera",
+        wrongs: [
+            "Nuoto",
+            "Tennis",
+            "Ciclismo"
+        ],
+    },
+    {
+        pregunta: "Qual è il record mondiale del lancio del disco maschile?",
+        response: "74,08 metri",
+        wrongs: [
+            "70,88 metri",
+            "76,80 metri",
+            "68,29 metri"
+        ],
+    },
+    {
+        pregunta: "Chi è considerato il più grande giocatore di calcio di tutti i tempi?",
+        response: "Pelé",
+        wrongs: [
+            "Diego Maradona",
+            "Lionel Messi",
+            "Cristiano Ronaldo"
+        ],
+    },
+    {
+        pregunta: "Qual è il record mondiale del salto in lungo maschile?",
+        response: "8,95 metri",
+        wrongs: [
+            "8,90 metri",
+            "9,04 metri",
+            "8,82 metri"
+        ],
+    },
+    {
+        pregunta: "Chi è il vincitore più giovane di un Gran Premio di Formula 1?",
+        response: "Max Verstappen",
+        wrongs: [
+            "Sebastian Vettel",
+            "Fernando Alonso",
+            "Lewis Hamilton"
+        ],
+    },
+    {
+        pregunta: "Quale squadra di cricket ha vinto il maggior numero di Coppe del Mondo ICC?",
+        response: "Australia",
+        wrongs: [
+            "India",
+            "Inghilterra",
+            "Pakistan"
+        ],
+    },
+    {
+        pregunta: "Qual è il record mondiale del salto con l'asta maschile?",
+        response: "6,18 metri",
+        wrongs: [
+            "6,14 metri",
+            "6,22 metri",
+            "6,10 metri"
+        ],
+    },
+    {
+        pregunta: "Chi è considerato il più grande giocatore di tennis di tutti i tempi?",
+        response: "Roger Federer",
+        wrongs: [
+            "Rafael Nadal",
+            "Novak Djokovic",
+            "Pete Sampras"
+        ],
+    },
+    {
+        pregunta: "Qual è il record mondiale del lancio del martello femminile?",
+        response: "82,98 metri",
+        wrongs: [
+            "79,42 metri",
+            "85,47 metri",
+            "77,90 metri"
+        ],
+    },
+    {
+        pregunta: "Chi è stato il primo pilota a vincere sette campionati del mondo di Formula 1?",
+        response: "Michael Schumacher",
+        wrongs: [
+            "Lewis Hamilton",
+            "Juan Manuel Fangio",
+            "Ayrton Senna"
+        ],
+    },
+    {
+        pregunta: "Qual è il record mondiale dei 100 metri piani femminili?",
+        response: "10,49 secondi",
+        wrongs: [
+            "10,62 secondi",
+            "10,76 secondi",
+            "10,34 secondi"
+        ],
+    },
+    {
+        pregunta: "Chi è considerato il più grande giocatore di pallavolo di tutti i tempi?",
+        response: "Karch Kiraly",
+        wrongs: [
+            "Giba",
+            "Gian Paolo Montali",
+            "Vyacheslav Platonov"
+        ],
+    },
+    {
+        pregunta: "Qual è il record mondiale del lancio del giavellotto maschile?",
+        response: "98,48 metri",
+        wrongs: [
+            "94,44 metri",
+            "100,58 metri",
+            "90,62 metri"
+        ],
+    },
+    {
+        pregunta: "Chi è l'unico golfista ad aver vinto il Grande Slam quattro volte?",
+        response: "Bobby Jones",
+        wrongs: [
+            "Jack Nicklaus",
+            "Tiger Woods",
+            "Arnold Palmer"
+        ],
+    },
+    {
+        pregunta: "Qual è il record mondiale dei 200 metri piani maschili?",
+        response: "19,19 secondi",
+        wrongs: [
+            "19,32 secondi",
+            "19,58 secondi",
+            "19,84 secondi"
+        ],
+    },
+    {
+        pregunta: "Quale squadra di pallamano ha vinto il maggior numero di titoli mondiali maschili?",
+        response: "Francia",
+        wrongs: [
+            "Spagna",
+            "Svezia",
+            "Danimarca"
+        ],
+    },
+    {
+        pregunta: "Qual è il record mondiale del lancio del peso maschile?",
+        response: "23,37 metri",
+        wrongs: [
+            "22,91 metri",
+            "24,04 metri",
+            "21,86 metri"
+        ],
+    },
+    {
+        pregunta: "Chi è considerato il più grande giocatore di baseball di tutti i tempi?",
+        response: "Babe Ruth",
+        wrongs: [
+            "Willie Mays",
+            "Hank Aaron",
+            "Barry Bonds"
+        ],
+    },
+    {
+        pregunta: "Quale pilota di Formula 1 detiene il record di pole position?",
+        response: "Lewis Hamilton",
+        wrongs: [
+            "Ayrton Senna",
+            "Michael Schumacher",
+            "Sebastian Vettel"
+        ],
+    },
+    {
+        pregunta: "Qual è il record mondiale del salto in alto femminile?",
+        response: "2,09 metri",
+        wrongs: [
+            "2,05 metri",
+            "2,13 metri",
+            "2,01 metri"
+        ],
+    },
+    {
+        pregunta: "Qual è uno degli ingredienti principali della Caprese?",
+        response: "Mozzarella",
+        wrongs: [
+            "Formaggio Cheddar",
+            "Gorgonzola",
+            "Ricotta"
+        ],
+    },
+    {
+        pregunta: "Qual è l'ingrediente base del Pesto alla Genovese?",
+        response: "Basilico",
+        wrongs: [
+            "Rosmarino",
+            "Origano",
+            "Timo"
+        ],
+    },
+    {
+        pregunta: "Cosa è tipicamente aggiunto al risotto per renderlo cremoso?",
+        response: "Burro",
+        wrongs: [
+            "Olio d'oliva",
+            "Latte",
+            "Crema"
+        ],
+    },
+    {
+        pregunta: "Quale ingrediente è essenziale nella Carbonara?",
+        response: "Pancetta",
+        wrongs: [
+            "Prosciutto",
+            "Salame",
+            "Bresaola"
+        ],
+    },
+    {
+        pregunta: "Cosa è usato per condire la Bruschetta?",
+        response: "Aglio",
+        wrongs: [
+            "Cipolla",
+            "Prezzemolo",
+            "Peperoncino"
+        ],
+    },
+    {
+        pregunta: "Qual è il formaggio tipico usato nella Lasagna?",
+        response: "Parmigiano Reggiano",
+        wrongs: [
+            "Mozzarella",
+            "Pecorino",
+            "Gorgonzola"
+        ],
+    },
+    {
+        pregunta: "Qual è l'ingrediente principale nella Bistecca alla Fiorentina?",
+        response: "Carne di Manzo",
+        wrongs: [
+            "Maiale",
+            "Pollo",
+            "Agnello"
+        ],
+    },
+    {
+        pregunta: "Cosa è spesso aggiunto al sugo di Pomodoro per dare sapore?",
+        response: "Basilico",
+        wrongs: [
+            "Prezzemolo",
+            "Origano",
+            "Rosmarino"
+        ],
+    },
+    {
+        pregunta: "Qual è il pesce utilizzato nella tradizionale Zuppa di Pesce?",
+        response: "Gamberi",
+        wrongs: [
+            "Salmone",
+            "Tonno",
+            "Seppie"
+        ],
+    },
+    {
+        pregunta: "Cosa è tipicamente aggiunto al Ragù alla Bolognese?",
+        response: "Sedano",
+        wrongs: [
+            "Carote",
+            "Cipolla",
+            "Peperoni"
+        ],
+    },
+    {
+        pregunta: "Quale ingrediente è essenziale nella Insalata Caprese?",
+        response: "Pomodoro",
+        wrongs: [
+            "Lattuga",
+            "Cetriolo",
+            "Rucola"
+        ],
+    },
+    {
+        pregunta: "Qual è l'ingrediente chiave nella Pasta all'Arrabbiata?",
+        response: "Peperoncino",
+        wrongs: [
+            "Pomodoro",
+            "Aglio",
+            "Cipolla"
+        ],
+    },
+    {
+        pregunta: "Cosa è spesso usato per dare sapore al Brodo di Carne?",
+        response: "Alloro",
+        wrongs: [
+            "Rosmarino",
+            "Timo",
+            "Salvia"
+        ],
+    },
+    {
+        pregunta: "Qual è l'ingrediente principale nella Pizza Margherita?",
+        response: "Mozzarella",
+        wrongs: [
+            "Prosciutto",
+            "Funghi",
+            "Salsiccia"
+        ],
+    },
+    {
+        pregunta: "Cosa è spesso aggiunto al Tiramisù per la decorazione?",
+        response: "Cacao",
+        wrongs: [
+            "Zucchero a Velo",
+            "Caffè",
+            "Vaniglia"
+        ],
+    },
+    {
+        pregunta: "Quale ingrediente è essenziale nel Panettone?",
+        response: "Uvetta",
+        wrongs: [
+            "Cioccolato",
+            "Nocciole",
+            "Mandorle"
+        ],
+    },
+    {
+        pregunta: "Cosa è tipicamente usato nel Ripieno dei Ravioli?",
+        response: "Ricotta",
+        wrongs: [
+            "Spinaci",
+            "Funghi",
+            "Carne"
+        ],
+    },
+    {
+        pregunta: "Qual è l'ingrediente principale nella Parmigiana di Melanzane?",
+        response: "Melanzane",
+        wrongs: [
+            "Pomodoro",
+            "Mozzarella",
+            "Basilico"
+        ],
+    },
+    {
+        pregunta: "Cosa è spesso aggiunto al Gelato per decorazione?",
+        response: "Frutta Candita",
+        wrongs: [
+            "Cioccolato Fondente",
+            "Panna Montata",
+            "Scaglie di Nocciole"
+        ],
+    },
+    {
+        pregunta: "Quale ingrediente è essenziale nella Ribollita?",
+        response: "Fagioli Cannellini",
+        wrongs: [
+            "Pomodoro",
+            "Cavolo",
+            "Patate"
+        ],
+    },
+    {
+        pregunta: "Cosa è tipicamente usato nella preparazione della Frittata?",
+        response: "Uova",
+        wrongs: [
+            "Formaggio",
+            "Prosciutto",
+            "Zucchine"
+        ],
+    },
+    {
+        pregunta: "Qual è l'ingrediente principale nella Panna Cotta?",
+        response: "Panna",
+        wrongs: [
+            "Latte",
+            "Zucchero",
+            "Vaniglia"
+        ],
+    },
+    {
+        pregunta: "Cosa è spesso aggiunto al Vino per produrre il Vin Brulè?",
+        response: "Cannella",
+        wrongs: [
+            "Limone",
+            "Zucchero",
+            "Miele"
+        ],
+    },
+    {
+        pregunta: "Quale ingrediente è essenziale nel Risotto allo Zafferano?",
+        response: "Zafferano",
+        wrongs: [
+            "Funghi",
+            "Piselli",
+            "Asparagi"
+        ],
+    },
+    {
+        pregunta: "Cosa è tipicamente aggiunto alla Ciabatta per la sua preparazione?",
+        response: "Lievo di Birra",
+        wrongs: [
+            "Olio d'oliva",
+            "Zucchero",
+            "Uvetta"
+        ],
+    },
+    {
+        pregunta: "Qual è l'ingrediente principale nel Cannolo Siciliano?",
+        response: "Ricotta",
+        wrongs: [
+            "Cioccolato",
+            "Mandorle",
+            "Frutta Candita"
+        ],
+    },
+    {
+        pregunta: "Cosa è spesso usato per condire la Pasta Aglio, Olio e Peperoncino?",
+        response: "Olio d'oliva",
+        wrongs: [
+            "Burro",
+            "Panna",
+            "Sugo di Pomodoro"
+        ],
+    },
+    {
+        pregunta: "Quale ingrediente è essenziale nella Minestra di Ceci?",
+        response: "Ceci",
+        wrongs: [
+            "Pomodoro",
+            "Zucchine",
+            "Patate"
+        ],
+    },
+    {
+        pregunta: "Cosa è tipicamente aggiunto alla Cotoletta alla Milanese per la panatura?",
+        response: "Pangrattato",
+        wrongs: [
+            "Farina",
+            "Uova",
+            "Formaggio Grattugiato"
+        ],
+    },
+    {
+        pregunta: "Qual è l'ingrediente principale nel Granita Siciliana?",
+        response: "Ghiaccio",
+        wrongs: [
+            "Latte",
+            "Succo di Limone",
+            "Caffè"
+        ],
+    },
+    {
+        pregunta: "Cosa è spesso aggiunto alla Besciamella per renderla più saporita?",
+        response: "Noce Moscata",
+        wrongs: [
+            "Sale",
+            "Pepe",
+            "Burro"
+        ],
+    },
+    {
+        pregunta: "Quale ingrediente è essenziale nel Pollo alla Cacciatora?",
+        response: "Pomodoro",
+        wrongs: [
+            "Cipolla",
+            "Carote",
+            "Sedano"
+        ],
+    },
+    {
+        pregunta: "Cosa è tipicamente usato per dare sapore alla Zuppa di Verdure?",
+        response: "Brodo Vegetale",
+        wrongs: [
+            "Brodo di Carne",
+            "Acqua",
+            "Latte"
+        ],
+    },
+    {
+        pregunta: "Qual è l'ingrediente principale nel Pizzaiola?",
+        response: "Pomodoro",
+        wrongs: [
+            "Peperoni",
+            "Cipolla",
+            "Olive"
+        ],
+    },
+    {
+        pregunta: "Cosa è spesso aggiunto alla Grigliata di Pesce per renderla più saporita?",
+        response: "Limone",
+        wrongs: [
+            "Aceto",
+            "Vino Bianco",
+            "Salsa di Soia"
+        ],
+    },
+    {
+        pregunta: "Quale ingrediente è essenziale nella Torta di Mele?",
+        response: "Mele",
+        wrongs: [
+            "Pere",
+            "Pesche",
+            "Ciliegie"
+        ],
+    },
+    {
+        pregunta: "Cosa è tipicamente aggiunto alla Salsa Bolognese per renderla più cremosa?",
+        response: "Latte",
+        wrongs: [
+            "Panna",
+            "Brodo",
+            "Aceto Balsamico"
+        ],
+    },
+    {
+        pregunta: "Qual è l'ingrediente principale nella Focaccia Ligure?",
+        response: "Olio d'oliva",
+        wrongs: [
+            "Rosmarino",
+            "Sale",
+            "Acqua"
+        ],
+    },
+    {
+        pregunta: "Cosa è spesso usato per insaporire il Tè Freddo al Limone?",
+        response: "Zucchero",
+        wrongs: [
+            "Miele",
+            "Sciroppo d'Acero",
+            "Stevia"
+        ],
+    },
+    {
+        pregunta: "Quale ingrediente è essenziale nella Pasta e Fagioli?",
+        response: "Fagioli",
+        wrongs: [
+            "Pomodoro",
+            "Cipolla",
+            "Sedano"
+        ],
+    },
+    {
+        pregunta: "Cosa è tipicamente usato per la panatura della Melanzane alla Parmigiana?",
+        response: "Pane Grattugiato",
+        wrongs: [
+            "Farina",
+            "Uova",
+            "Formaggio Grattugiato"
+        ],
+    },
+    {
+        pregunta: "Qual è l'ingrediente principale nella Cassata Siciliana?",
+        response: "Cannoli",
+        wrongs: [
+            "Pan di Spagna",
+            "Crema Pasticcera",
+            "Ricotta"
+        ],
+    },
+    {
+        pregunta: "Cosa è spesso aggiunto alla Pasta Aglio, Olio e Peperoncino per renderla più gustosa?",
+        response: "Pangrattato",
+        wrongs: [
+            "Parmigiano",
+            "Panna",
+            "Uovo"
+        ],
+    },
+    {
+        pregunta: "In che anno è iniziata la Prima Guerra Mondiale?",
+        response: "1914",
+        wrongs: [
+            "1905",
+            "1920",
+            "1939"
+        ],
+    },
+    {
+        pregunta: "Chi è stato il primo presidente degli Stati Uniti?",
+        response: "George Washington",
+        wrongs: [
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "John Adams"
+        ],
+    },
+    {
+        pregunta: "In che anno è stata firmata la Dichiarazione d'Indipendenza degli Stati Uniti?",
+        response: "1776",
+        wrongs: [
+            "1789",
+            "1804",
+            "1812"
+        ],
+    },
+    {
+        pregunta: "Chi è stato il leader della Rivoluzione Russa del 1917?",
+        response: "Vladimir Lenin",
+        wrongs: [
+            "Joseph Stalin",
+            "Leon Trotsky",
+            "Mikhail Gorbachev"
+        ],
+    },
+    {
+        pregunta: "Quando è finita la Seconda Guerra Mondiale?",
+        response: "1945",
+        wrongs: [
+            "1939",
+            "1940",
+            "1943"
+        ],
+    },
+    {
+        pregunta: "Chi era il leader dell'Impero Romano durante il suo picco massimo di espansione?",
+        response: "Augusto",
+        wrongs: [
+            "Giulio Cesare",
+            "Nerone",
+            "Costantino"
+        ],
+    },
+    {
+        pregunta: "Qual è stato l'evento che ha segnato la fine dell'Impero Romano d'Occidente?",
+        response: "Caduta di Roma",
+        wrongs: [
+            "Assedio di Costantinopoli",
+            "Battaglia di Adrianopoli",
+            "Invasione dei barbari"
+        ],
+    },
+    {
+        pregunta: "Chi era il comandante delle forze alleate durante la Seconda Guerra Mondiale?",
+        response: "Dwight D. Eisenhower",
+        wrongs: [
+            "Winston Churchill",
+            "Joseph Stalin",
+            "Charles de Gaulle"
+        ],
+    },
+    {
+        pregunta: "Qual è stata la causa principale della Rivoluzione Francese?",
+        response: "Disuguaglianza sociale ed economica",
+        wrongs: [
+            "Crisi economica",
+            "Invasione straniera",
+            "Cattiva leadership"
+        ],
+    },
+    {
+        pregunta: "Chi era il re d'Inghilterra durante l'epoca della Rivoluzione Industriale?",
+        response: "Vittoria",
+        wrongs: [
+            "Giorgio III",
+            "Edoardo VII",
+            "Giorgio IV"
+        ],
+    },
+    {
+        pregunta: "Qual è stata la prima civiltà a svilupparsi in Mesopotamia?",
+        response: "Sumeri",
+        wrongs: [
+            "Babilonesi",
+            "Assiri",
+            "Akkadi"
+        ],
+    },
+    {
+        pregunta: "Chi è stato il fondatore dell'Impero Mongolo?",
+        response: "Genghis Khan",
+        wrongs: [
+            "Kublai Khan",
+            "Ogodei Khan",
+            "Tamerlano"
+        ],
+    },
+    {
+        pregunta: "Qual è stata la principale causa della Guerra Fredda?",
+        response: "Conflitto ideologico tra USA e URSS",
+        wrongs: [
+            "Competizione economica",
+            "Conflitti territoriali",
+            "Vendetta storica"
+        ],
+    },
+    {
+        pregunta: "Chi è stato il primo imperatore cinese?",
+        response: "Qin Shi Huang",
+        wrongs: [
+            "Han Wudi",
+            "Kangxi",
+            "Mao Zedong"
+        ],
+    },
+    {
+        pregunta: "Qual è stato l'evento che ha segnato la fine dell'Impero Ottomano?",
+        response: "Prima Guerra Mondiale",
+        wrongs: [
+            "Guerra dei Balcani",
+            "Trattato di Sèvres",
+            "Caduta di Costantinopoli"
+        ],
+    },
+    {
+        pregunta: "Cosa significa 'HTML'?",
+        response: "HyperText Markup Language",
+        wrongs: [
+            "HyperText Machine Language",
+            "High Tech Markup Language",
+            "Home Tool Markup Language"
+        ],
+    },
+    {
+        pregunta: "Chi ha fondato la compagnia 'Apple'?",
+        response: "Steve Jobs",
+        wrongs: [
+            "Bill Gates",
+            "Mark Zuckerberg",
+            "Elon Musk"
+        ],
+    },
+    {
+        pregunta: "Quale azienda ha sviluppato il sistema operativo 'Windows'?",
+        response: "Microsoft",
+        wrongs: [
+            "Apple",
+            "Google",
+            "IBM"
+        ],
+    },
+    {
+        pregunta: "Cosa significa 'CPU'?",
+        response: "Central Processing Unit",
+        wrongs: [
+            "Computer Processing Unit",
+            "Central Power Unit",
+            "Core Programming Unit"
+        ],
+    },
+    {
+        pregunta: "Quale è il browser web più utilizzato?",
+        response: "Google Chrome",
+        wrongs: [
+            "Mozilla Firefox",
+            "Safari",
+            "Microsoft Edge"
+        ],
+    },
+    {
+        pregunta: "Cosa significa 'PDF'?",
+        response: "Portable Document Format",
+        wrongs: [
+            "Personal Document File",
+            "Printable Document Form",
+            "Programmable Data Folder"
+        ],
+    },
+    {
+        pregunta: "Chi ha fondato la compagnia 'Microsoft'?",
+        response: "Bill Gates",
+        wrongs: [
+            "Steve Jobs",
+            "Larry Page",
+            "Jeff Bezos"
+        ],
+    },
+    {
+        pregunta: "Cosa significa 'URL'?",
+        response: "Uniform Resource Locator",
+        wrongs: [
+            "Universal Resource Link",
+            "Unified Reference Label",
+            "User Resource Lookup"
+        ],
+    },
+    {
+        pregunta: "Quale azienda ha lanciato il primo smartphone?",
+        response: "IBM",
+        wrongs: [
+            "Apple",
+            "Samsung",
+            "Sony"
+        ],
+    },
+    {
+        pregunta: "Quale è il linguaggio di programmazione più popolare?",
+        response: "JavaScript",
+        wrongs: [
+            "Python",
+            "Java",
+            "C++"
+        ],
+    },
+    {
+        pregunta: "Cosa significa 'RAM'?",
+        response: "Random Access Memory",
+        wrongs: [
+            "Read-Only Memory",
+            "Real-time Access Module",
+            "Remote Administration Module"
+        ],
+    },
+    {
+        pregunta: "Chi ha inventato il World Wide Web (WWW)?",
+        response: "Tim Berners-Lee",
+        wrongs: [
+            "Steve Jobs",
+            "Bill Gates",
+            "Larry Page"
+        ],
+    },
+    {
+        pregunta: "Quale è il social network più grande del mondo?",
+        response: "Facebook",
+        wrongs: [
+            "Instagram",
+            "Twitter",
+            "LinkedIn"
+        ],
+    },
+    {
+        pregunta: "Cosa è un 'hashtag'?",
+        response: "Un tag utilizzato sui social media per categorizzare contenuti",
+        wrongs: [
+            "Un tipo di emoji",
+            "Una forma di crittografia",
+            "Un protocollo di comunicazione"
+        ],
+    },
+    {
+        pregunta: "Qual è il sistema operativo utilizzato nei dispositivi iPhone?",
+        response: "iOS",
+        wrongs: [
+            "Android",
+            "Windows",
+            "macOS"
+        ],
+    },
+    {
+        pregunta: "Cosa è un 'router'?",
+        response: "Un dispositivo che dirige il traffico dati in una rete",
+        wrongs: [
+            "Un tipo di cavo di rete",
+            "Un dispositivo di input",
+            "Una tecnologia di compressione dati"
+        ],
+    },
 ]
